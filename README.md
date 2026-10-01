@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Gabriela Gissele Alvarez Garcia \[C22211520]; c22211520@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
